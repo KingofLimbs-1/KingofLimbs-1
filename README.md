@@ -5,11 +5,10 @@
 <!-- Profile image end -->
 
 <!-- Currently learning -->
-# Currently learning
+# Currently learning 🐱‍👤
 
-1. x
-2. y
-3. z
+1. Data Structures & Algorithms
+2. PHP
 <!-- Currently learning end -->
 
 <!--START_SECTION:waka-->
