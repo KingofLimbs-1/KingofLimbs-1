@@ -5,12 +5,14 @@
 <!-- Profile image end -->
 
 <!-- Currently learning -->
-# Currently learning :flying_saucer:
+<h1 align="center">Currently Learning </h1>
 
-1. Data Structures & Algorithms
-2. PHP
+* Data Structures & Algorithms
+* PHP
 #
 <!-- Currently learning end -->
 
+<div align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</div>
