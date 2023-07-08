@@ -10,6 +10,3 @@
 1. Data Structures & Algorithms
 2. PHP
 <!-- Currently learning end -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
