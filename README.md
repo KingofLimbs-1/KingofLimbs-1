@@ -16,13 +16,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2023 - To: 07 July 2023
+From: 01 July 2023 - To: 08 July 2023
 
-Total Time: 2 hrs 28 mins
+Total Time: 3 hrs 59 mins
 
-YAML       1 hr 15 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   51.04 %
-Markdown   1 hr 12 mins    ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   48.92 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown   1 hr 52 mins    ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   47.12 %
+YAML       1 hr 43 mins    ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░   43.30 %
+PHP        22 mins         ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
