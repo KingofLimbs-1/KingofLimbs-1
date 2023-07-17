@@ -9,6 +9,7 @@
 
 * Data Structures & Algorithms
 * PHP
+* MySQL 
 #
 <!-- Currently learning end -->
 
