@@ -9,6 +9,7 @@
 
 * Data Structures & Algorithms
 * PHP
+* MySQL 
 #
 <!-- Currently learning end -->
 
@@ -16,13 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2023 - To: 07 July 2023
+From: 08 July 2023 - To: 15 July 2023
 
-Total Time: 2 hrs 28 mins
+Total Time: 22 hrs 8 mins
 
-YAML       1 hr 15 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░   51.04 %
-Markdown   1 hr 12 mins    ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   48.92 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+PHP        21 hrs 36 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒   97.66 %
+CSS        26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
