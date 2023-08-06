@@ -1,6 +1,6 @@
 <!-- Profile image -->
 <p align="center">
- <img src="assets/guts-meadow.jpg" width="1080px">
+ <img src="assets/bpD2ohb.png" width="1080px">
 </p>
 <!-- Profile image end -->
 
