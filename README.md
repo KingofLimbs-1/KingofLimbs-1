@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2023 - To: 23 August 2023
+From: 17 August 2023 - To: 24 August 2023
 
-Total Time: 17 hrs 43 mins
+Total Time: 20 hrs 26 mins
 
-PHP          12 hrs          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   67.74 %
-CSS          5 hrs 12 mins   ▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░   29.36 %
-JavaScript   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+PHP          13 hrs 22 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░   65.42 %
+CSS          6 hrs 33 mins   ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   32.07 %
+JavaScript   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
