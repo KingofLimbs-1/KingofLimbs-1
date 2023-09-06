@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2023 - To: 03 September 2023
+From: 28 August 2023 - To: 04 September 2023
 
-Total Time: 27 hrs 37 mins
+Total Time: 16 hrs 35 mins
 
-PHP        21 hrs 29 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░   77.75 %
-CSS        4 hrs 29 mins   ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   16.23 %
-Markdown   1 hr 31 mins    ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-SQL        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+PHP        11 hrs 50 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░   71.36 %
+CSS        3 hrs 5 mins    ▓▓▓▓▒░░░░░░░░░░░░░░░░░░░░   18.63 %
+Markdown   1 hr 31 mins    ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+SQL        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
