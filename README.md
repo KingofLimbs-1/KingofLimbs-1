@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2024 - To: 29 May 2024
+From: 23 May 2024 - To: 30 May 2024
 
-Total Time: 3 hrs 59 mins
+Total Time: 5 hrs 48 mins
 
-C#         3 hrs 38 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   91.30 %
-Markdown   12 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-JSON       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+C#         5 hrs 27 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░   94.02 %
+Markdown   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+JSON       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
