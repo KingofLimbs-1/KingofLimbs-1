@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2024 - To: 11 September 2024
+From: 05 September 2024 - To: 12 September 2024
 
-Total Time: 5 hrs 43 mins
+Total Time: 5 hrs 29 mins
 
-CSS    3 hrs 39 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   63.86 %
-HTML   2 hrs 4 mins    ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   36.14 %
+CSS    3 hrs 32 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   64.61 %
+HTML   1 hr 56 mins    ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░   35.39 %
 ```
 
 <!--END_SECTION:waka-->
